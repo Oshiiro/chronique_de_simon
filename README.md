@@ -4,4 +4,3 @@
   // N°1: Le saucisson tu aimera !!
   // N°2 : La sodomie tu venèreras.
   // Chaptire 3 : La sodomie tu venereras
-  // zobe zobe
