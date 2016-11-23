@@ -19,7 +19,7 @@
     <form class="" action="index.html" method="post">
       <label for="01">test 01</label>
       <input type="text" name="01" value="">
-      <button type="button" class="btn btn-default" name="button"></button>
+      <button type="button" class="btn btn-default" name="button">wesh wesh wesh</button>
     </form>
   </body>
 </html>
