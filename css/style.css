@@ -1,5 +1,8 @@
 body {
+  background-color: lime;
+  text-align: center;
+}
 
-  background-color: green;
-
+li {
+  list-style: none;
 }
