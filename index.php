@@ -1,7 +1,7 @@
 
 <?php include ('include/header.php'); ?>
 
-    <h1>Chronique de Simon</h1>
+    <h1>Chroniques de Simon</h1>
     <p>Ce site va vous raconter l'histoire incroyable des aventures Simonesque de Simon</p>
     <a href="contact.php"><h3>Contact</h3></a>
     <a href="article.php"><h3>Article</h3></a>
