@@ -6,3 +6,9 @@ body {
 li {
   list-style: none;
 }
+
+title {
+font-family: monospace;
+font-size: 40px;
+border-bottom: 1px dotted green;
+}
