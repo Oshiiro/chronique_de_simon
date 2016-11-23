@@ -1,6 +1,9 @@
 body {
-  background-color: lime;
+  background-image: url(../images/oignon2.jpg);
   text-align: center;
+  background-attachment: fixed;
+  color: white;
+  text-shadow: 2px 2px black;
 }
 
 li {
