@@ -13,7 +13,7 @@
         <hr>
         <li><a>Chapitre 3</a> : <h6>Kilian le Fétichiste arnarchiste</h6></li>
         <hr>
-        <li><a>Chapitre 4</a> : <h6>Benoit le Pape</h6></li>
+        <li><a>Chapitre 4</a> : <h6>Mon anus sintillant</h6></li>
         <hr>
         <li><a>Chapitre 5</a> : <h6>Ben Le prophète de Laden</h6></li>
         <hr>
