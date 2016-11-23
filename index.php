@@ -1,6 +1,6 @@
 <?php include ('include/header.php'); ?>
 
-    <h1>Chronique de Simon</h1>
+    <h1>Chroniques de Simon</h1>
     <p>Ce site va vous raconter l'histoire incroyable des aventures Simonesque de Simon</p>
     <hr>
     <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 chapitres">
