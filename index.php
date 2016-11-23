@@ -19,8 +19,12 @@
     <form class="" action="index.html" method="post">
       <label for="01">test 01</label>
       <input type="text" name="01" value="">
+<<<<<<< HEAD
       <button type="button" class="btn btn-default" name="button"></button>
       <p>enculé de ta mère</p>
+=======
+      <button type="button" class="btn btn-default" name="button">wesh wesh wesh</button>
+>>>>>>> 76501db6b99673b17d23ff99f80ee06e3b520474
     </form>
   </body>
 </html>
