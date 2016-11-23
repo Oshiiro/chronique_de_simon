@@ -20,7 +20,7 @@
         <li><a>Chapitre 6</a> : <h6>Mathieu le pieux</h6></li>
       </ul>
     </div>
-<a href="contact.php"> <button type="button" name="button"></button> </a>
+    <a href="contact.php"> <button type="button" name="button"></button> </a>
     <script type="text/javascript" src="js/jquery-3.1.0.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script>
