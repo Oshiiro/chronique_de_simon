@@ -1,0 +1,17 @@
+body {
+  background-image: url(../images/oignon2.jpg);
+  text-align: center;
+  background-attachment: fixed;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+li {
+  list-style: none;
+}
+
+title {
+font-family: monospace;
+font-size: 40px;
+border-bottom: 1px dotted green;
+}
