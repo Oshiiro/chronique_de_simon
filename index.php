@@ -8,5 +8,10 @@
   <body>
     <h1>Chronique de Simon</h1>
       <p>Ce site va vous raconter l'histoire incroyable des aventures Simonesque de Simon</p>
+      <form class="" action="index.html" method="post">
+        <label for="01">test 01</label>
+        <input type="text" name="01" value="">
+        <button type="button" class="btn btn-default" name="button"></button>
+      </form>
   </body>
 </html>
